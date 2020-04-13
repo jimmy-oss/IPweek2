@@ -72,11 +72,9 @@ Are among the programming languages I have used.
 
 # AUTHORS CONTACTS
     jimmynjonge51@gmail.com
-# CONTACT AND INFORMATION
-  for more information please visit my Github links inorder to enquire more information about the projects;
-    <a href="https:https://www.Github.com/html/">jimmy-oss<a></br> 
+
  # LICENSE AND COPYRIGHT INFORMATION 
-    My project is under this lisense <a href="https:https://www.Github.com/html/">my repositories jimmy-oss</a></br>
+    My project is under this lisense <a href="https:https://www.Github.com/html/">MIT</a></br>
                 
        Copyright (c) 2020 jimmy-oss
 
