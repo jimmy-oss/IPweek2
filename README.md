@@ -74,7 +74,7 @@ Are among the programming languages I have used.
     jimmynjonge51@gmail.com
 
  # LICENSE AND COPYRIGHT INFORMATION 
-    My project is under this lisense <a href="https:https://www.Github.com/html/">MIT</a></br>
+    My project is under  license MIT
                 
        Copyright (c) 2020 jimmy-oss
 
