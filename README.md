@@ -46,7 +46,7 @@ your akan name.
                      <tr class="w3-white">
                   <td>None of a ghanian name is derived error</td>
                                    <td>century</td>
-                                    <td>20</td>
+                                    <td>21</td>
                                     <td>false</td>
                                     </tr>
                                        <tr>
