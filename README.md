@@ -32,7 +32,7 @@ your akan name.
                      <tr class="w3-theme">
                   <th>BEHAVIOUR OUR PROGRAMMER SHOULD HANDLE</th>
                     <th>INPUT EXAMPLES WHEN IT RECIEVES</th> 
-                      <th>INPUT EXAMPLE IT SHOULD RETURN</th>
+                      <th>INPUT EXAMPLE IT SHOULD BE PUTTED</th>
                        <th>OUTPUT EXAMPLE IT SHOULD RETURN</th>
                            </tr>
                             </thread>
