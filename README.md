@@ -18,7 +18,9 @@ It also requires html tags inorder to create the form.
 It also uses javascript functions such as the arrays and strings.
 When the user follows the collect setup such as javascript,css and html.<br>
 The project will work as expected, achieving the functionality required.
-
+And remember the html file requires script source of the js file inorder the file to be linked,
+this will allow one to be able to enter day,century,month,year and submit you will able to get
+your akan name.
   # BEHAVIOUR DRIVEN DEVELOPMENT
 <h2>The Table</h2>
         <p w3-class="w3-large">
