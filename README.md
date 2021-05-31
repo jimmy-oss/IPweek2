@@ -1,6 +1,7 @@
-
-# VALIDATION FORM
+   # VALIDATION FORM
+ 
 The project above is a validation form which validates ghanian males and females.<br>
+
 # DESCRIPTION
 The project above contains list of males and females.
 They are derived from Ghanian culture.
@@ -10,7 +11,7 @@ Here are Ghanian day names.I have listed on the table. And below the table there
 The main focus of the form is apply javascript skills taking place in both.
 valid and invaid as a software developer feel free to fill it below.
 # AUTHORS NAME
-James Wanyutu
+Jimmy-oss
 # SETUP INSTRUCTIONS
 The project requires synax language inorder to validate the form well.<br>
 It also requires CSS such as styling sheet inorder to style it.<br>
@@ -21,8 +22,7 @@ The project will work as expected, achieving the functionality required.
 And remember the html file requires script source of the js file inorder the file to be linked,
 this will allow one to be able to enter day,century,month,year and submit you will able to get
 your akan name.
-
-  # BEHAVIOUR DRIVEN DEVELOPMENT
+# BEHAVIOUR DRIVEN DEVELOPMENT
 <h2>The Table</h2>
         <p w3-class="w3-large">
                    </div>
